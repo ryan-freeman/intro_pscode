@@ -6,15 +6,11 @@ FIND THE SPOT APPLICATION
 
 Step 1. Start application
 
-Step 2. User inputs or chooses:
-	
-	Starting Location
+Step 2. Application detects User's Starting Location
 
-	AND
+Step 3. User chooses or inputs Desired Location
 
-	Desired Location
-
-Step 3. When User is en route to Desired location application will display a map:
+Step 4. When User is en route to Desired location application will display a map:
 
 	If User is left (west) of Desired Location, User is directed to move right (east)
 
@@ -24,13 +20,13 @@ Step 3. When User is en route to Desired location application will display a map
 
 	If User is above (north) the Desired Location, User is directed to move down (desired)	
 
-Step 4. Map will update as User travels to Desired Location
+Step 5. Map will update as User travels to Desired Location
 
-Step 5. Application will repeat Step 3 and Step 4 until User has arrived at Desired Location
+Step 6. Application will repeat Step 4 and Step 5 until User has arrived at Desired Location
 
-Step 6. When User arrives at Desired location, application will display following message:
+Step 7. When User arrives at Desired location, application will display following message:
 
 	"You have arrived at your destination! Thank you for visting our warehouse!"
 
-Step 7. End application
+Step 8. End application
 
