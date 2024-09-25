@@ -2,3 +2,26 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+PRODUCT PACKAGE COUNTER PROGRAM
+
+Step 1. START program 
+
+	NOTE: Package scanning begins
+
+Step 2. ASSIGN starting number value of 2 once first package scanned
+
+	NOTE: 2 is used as starting number value because each package scanned = 2 products
+
+Step 3. ASSIGN maximum number value to 50
+
+	NOTE: 50 is used for maximum number value because each case holds 50 products 
+
+Step 4. DISPLAY Current Number Value
+
+	NOTE: Current Number Value will be the current number of packages scanned
+
+Step 5. ADD 2 to Current Number Value after next package is scanned
+
+Step 6. REPEAT Step 4 and Step 5 until Current Number Value = 50 (maximum number value)
+
+Step 7. END program once Current Number Value = 50
