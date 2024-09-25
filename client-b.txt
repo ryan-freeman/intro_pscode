@@ -2,3 +2,31 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+FIND THE SPOT APPLICATION
+
+Step 1. User inputs or chooses:
+	
+	Starting Location
+
+	AND
+
+	Desired Location
+
+Step 2. When User is in route to Desired location application will display a map that:
+
+	Directs User to move right (east) if they are left (west) of the Desired Location
+
+	Directs User to move left (west) if they are right (east) of the Desired Location
+
+	Directs User to move up (north) if they are below (south) the Desired Location
+	
+	Directs User to move down (south) if they are above (north) the Desired Location
+
+Step 3. Application will update as User travels to Desired Location
+
+Step 4. Application will repeat Step 2 and Step 3 until User has arrived at Desired Location
+
+Step 5. When User arrives at Desired location, application will display following message:
+
+	"You have arrived at your destination! Thank you for visting our warehouse!"
+
